@@ -135,9 +135,8 @@ Based on production practices from:
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Your Profile]
-- GitHub: [Your Profile]
-- Email: your.email@example.com
+- LinkedIn: www.linkedin.com/in/hitaishkg
+- Email: hitaishkg@gmail.com
 
 ## 📄 License
 
