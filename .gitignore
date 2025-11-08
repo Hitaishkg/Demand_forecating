@@ -1,0 +1,35 @@
+cat > .gitignore << 'EOF'
+# Data files (too large for git)
+data/raw/*
+data/processed/*
+*.csv
+*.parquet
+
+# Model files
+models/*.pkl
+models/*.h5
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs
+outputs/plots/*
+!outputs/plots/.gitkeep
+outputs/results/*
+!outputs/results/.gitkeep
+EOF
