@@ -1,0 +1,2 @@
+baseline_mae,baseline_rmse,baseline_mape,lightgbm_mae,lightgbm_rmse,lightgbm_mape,improvement_mae,improvement_rmse,improvement_mape,best_iteration,num_features,num_products,training_date
+0.5622448979591836,0.7261026010170991,48.263471177944865,0.7864771331286972,1.438127845012929,49.06206578468515,-0.7054835712695737,-1.7361907449398144,9.328485342944564,110,10,5,2025-11-10 22:24:11

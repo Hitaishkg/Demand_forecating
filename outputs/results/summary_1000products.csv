@@ -1,0 +1,2 @@
+total_products,test_days,overall_mae,overall_rmse,overall_mape,training_time_minutes,best_segment,best_segment_mae,worst_segment,worst_segment_mae,top_feature,top_feature_pct
+826,28,1.1360766858098441,2.1085767938621895,48.80502196938487,0.30885010162989296,CZ,0.38423968796124175,AX,3.754750652495923,rolling_mean_7,88.65736822748894

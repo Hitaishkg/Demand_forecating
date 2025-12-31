@@ -1,0 +1,7 @@
+,model,update_freq,service_level,forecast_investment,strategy
+AX,Prophet or Advanced ARIMA,Daily,98%,HIGH - Best ROI,Never stock out. Use sophisticated models. Daily monitoring.
+AY,LightGBM or Prophet,Daily,97%,HIGH - Critical products,Maintain high availability. Balance accuracy with complexity.
+AZ,LightGBM with high safety stock,Daily,95%,MEDIUM - Focus on buffer inventory,Accept forecast uncertainty. Compensate with safety stock.
+BY,LightGBM (production workhorse),Weekly,95%,MEDIUM - High volume impact,Standard ML approach. Weekly replenishment. Bulk of business.
+BZ,LightGBM,Weekly,92%,LOW - Diminishing returns,Simple models sufficient. Higher buffer stock acceptable.
+CZ,Rolling average or discontinue,Monthly,85-90%,NONE - Not worth optimizing,Fixed reorder quantity. Consider discontinuing low-margin items.

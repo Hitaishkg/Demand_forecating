@@ -1,0 +1,4 @@
+Segment,Products,MAPE_Improvement,Holding_Savings,Stockout_Savings,Total_Annual_Savings
+All Products,10000,48.8% → 43.0%,"$10,875,000","$4,350,000","$15,225,000"
+AX (High Value),1000,30.8% → 25.0%,"$4,350,000","$1,740,000","$6,090,000"
+BY (Medium),4000,51.8% → 46.0%,"$3,480,000","$1,392,000","$4,872,000"
