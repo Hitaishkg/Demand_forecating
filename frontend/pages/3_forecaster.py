@@ -2,6 +2,12 @@
 Forecaster Page - Interactive 7-Day Demand Prediction
 """
 import streamlit as st
+
+st.error("🚧 Forecaster page temporarily disabled for deployment optimization")
+st.info("Check back soon for interactive forecasting features!")
+st.stop()
+
+import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
